@@ -1,0 +1,14 @@
+body
+{
+  background: rgb(240, 247, 180);
+}
+#ball
+{
+  background: rgb(160, 23, 202);
+  height: 100px;
+  width: 100px;
+  border-radius: 60%;
+  margin-left: 45%;
+  margin-right: 45%;
+  margin-top: 60%;
+}
