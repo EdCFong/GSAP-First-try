@@ -1,0 +1,31 @@
+body {
+  margin: 10px;
+  background: rgb(27, 26, 26);
+}
+
+.box {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-left: 120px;
+  border-radius: 20%;
+}
+
+h2 {
+  color: rgb(253, 251, 251);
+}
+
+.orange {
+  background: orange;
+  margin-top: 200px;
+}
+
+.grey {
+  background: grey;
+  margin-top: 10px;
+}
+
+.green {
+  background: lawngreen;
+  margin-top: 10px;
+}
