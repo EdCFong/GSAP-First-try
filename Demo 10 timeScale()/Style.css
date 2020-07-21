@@ -1,0 +1,86 @@
+body {
+  margin: 10px;
+  background: rgb(27, 26, 26);
+}
+
+.box {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 10%;
+}
+h2{
+  color: yellow;
+}
+
+h3 {
+  color: rgb(253, 251, 251);
+}
+
+.message{
+  margin:10px;
+  color:#ddd;
+}
+
+.orange {
+  background: orange;
+
+}
+
+.grey {
+  background: grey;
+
+}
+
+.green {
+  background: lawngreen;
+
+}
+
+.pink {
+  background-color: pink;
+}
+
+.nav{
+  margin-left: 10px;
+  margin-top: 30px;
+}
+
+button {
+  text-transform: none;
+  display:inline-block;
+  outline: none;
+  border: none;
+  padding: 8px 14px;
+  background: #414141;
+  background-image: linear-gradient(to bottom, #575757, #414141);
+  text-shadow: 0px 1px 0px #414141;
+  -webkit-box-shadow: 0px 1px 0px 414141;
+  -moz-box-shadow: 0px 1px 0px 414141;
+  box-shadow: 0px 1px 0px 414141;
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 auto 10px;
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  padding: 12px 25px;
+  font-family: "Signika Negative", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 18px;
+}
+button:hover {
+  background: lawngreen;
+  background-image: linear-gradient(to bottom, #68d614, #55ad15);
+  text-shadow: 0px 1px 0px #32610e;
+  -webkit-box-shadow: 0px 1px 0px fefefe;
+  -moz-box-shadow: 0px 1px 0px fefefe;
+  box-shadow: 0px 1px 0px fefefe;
+  color: #ffffff;
+  text-decoration: none;
+}
